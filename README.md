@@ -1,6 +1,6 @@
 # Solution For BearerTokenGenerator
 
-This project is a generate Bearer token for OAuth2.0
+This project generate Bearer token for OAuth2.0
 
 # What is Bearer Token?
  Bearer Tokens are the predominant type of access token used with OAuth 2.0.
